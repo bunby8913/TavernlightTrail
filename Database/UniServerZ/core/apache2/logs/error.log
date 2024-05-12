@@ -1,0 +1,12 @@
+[Wed May 08 22:01:13.221425 2024] [mpm_winnt:notice] [pid 844:tid 428] AH00455: Apache/2.4.25 (Win32) PHP/7.1.1 configured -- resuming normal operations
+[Wed May 08 22:01:13.221425 2024] [mpm_winnt:notice] [pid 844:tid 428] AH00456: Apache Lounge VC14 Server built: Dec 17 2016 10:42:52
+[Wed May 08 22:01:13.221425 2024] [core:notice] [pid 844:tid 428] AH00094: Command line: 'C:\\Users\\BunbyDev\\Documents\\code\\trial\\Database\\UniServerZ\\core\\apache2\\bin\\httpd_z.exe -d C:/Users/BunbyDev/Documents/code/trial/Database/UniServerZ/core/apache2 -f C:\\Users\\BunbyDev\\Documents\\code\\trial\\Database\\UniServerZ\\core\\apache2\\conf\\httpd.conf -d C:\\Users\\BunbyDev\\Documents\\code\\trial\\Database\\UniServerZ\\core\\apache2'
+[Wed May 08 22:01:13.227426 2024] [mpm_winnt:notice] [pid 844:tid 428] AH00418: Parent: Created child process 19680
+[Wed May 08 22:01:13.725453 2024] [mpm_winnt:notice] [pid 19680:tid 816] AH00354: Child: Starting 150 worker threads.
+[Wed May 08 22:09:28.778024 2024] [php7:warn] [pid 19680:tid 1872] [client 127.0.0.1:52902] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tfs13'@'localhost' (using password: YES) in C:\\Users\\BunbyDev\\Documents\\code\\trial\\Database\\UniServerZ\\www\\engine\\database\\connect.php on line 35
+[Thu May 09 09:18:55.484103 2024] [core:warn] [pid 16616:tid 440] AH00098: pid file C:/Users/BunbyDev/Documents/code/trial/Database/UniServerZ/core/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu May 09 09:18:55.655216 2024] [mpm_winnt:notice] [pid 16616:tid 440] AH00455: Apache/2.4.25 (Win32) PHP/7.1.1 configured -- resuming normal operations
+[Thu May 09 09:18:55.655216 2024] [mpm_winnt:notice] [pid 16616:tid 440] AH00456: Apache Lounge VC14 Server built: Dec 17 2016 10:42:52
+[Thu May 09 09:18:55.655216 2024] [core:notice] [pid 16616:tid 440] AH00094: Command line: 'C:\\Users\\BunbyDev\\Documents\\code\\trial\\Database\\UniServerZ\\core\\apache2\\bin\\httpd_z.exe -d C:/Users/BunbyDev/Documents/code/trial/Database/UniServerZ/core/apache2 -f C:\\Users\\BunbyDev\\Documents\\code\\trial\\Database\\UniServerZ\\core\\apache2\\conf\\httpd.conf -d C:\\Users\\BunbyDev\\Documents\\code\\trial\\Database\\UniServerZ\\core\\apache2'
+[Thu May 09 09:18:55.661223 2024] [mpm_winnt:notice] [pid 16616:tid 440] AH00418: Parent: Created child process 9308
+[Thu May 09 09:18:56.063122 2024] [mpm_winnt:notice] [pid 9308:tid 712] AH00354: Child: Starting 150 worker threads.

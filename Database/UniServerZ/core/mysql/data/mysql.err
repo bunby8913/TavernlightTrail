@@ -1,0 +1,66 @@
+2024-05-08 22:01:00 7164 [Note] Plugin 'FEDERATED' is disabled.
+2024-05-08 22:01:00 7164 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2024-05-08 22:01:00 7164 [Note] InnoDB: The InnoDB memory heap is disabled
+2024-05-08 22:01:00 7164 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2024-05-08 22:01:00 7164 [Note] InnoDB: Memory barrier is not used
+2024-05-08 22:01:00 7164 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2024-05-08 22:01:00 7164 [Note] InnoDB: Not using CPU crc32 instructions
+2024-05-08 22:01:00 7164 [Note] InnoDB: Initializing buffer pool, size = 32.0M
+2024-05-08 22:01:00 7164 [Note] InnoDB: Completed initialization of buffer pool
+2024-05-08 22:01:00 7164 [Note] InnoDB: Highest supported file format is Barracuda.
+2024-05-08 22:01:00 7164 [Note] InnoDB: 128 rollback segment(s) are active.
+2024-05-08 22:01:00 7164 [Note] InnoDB: Waiting for purge to start
+2024-05-08 22:01:00 7164 [Note] InnoDB: 5.6.35 started; log sequence number 1771182
+2024-05-08 22:01:00 7164 [Warning] No existing UUID has been found, so we assume that this is the first time that this server has been started. Generating a new UUID: fbe093f2-0da7-11ef-9be7-a4f933eb8d21.
+2024-05-08 22:01:00 7164 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+2024-05-08 22:01:00 7164 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+2024-05-08 22:01:00 7164 [Note] Server socket created on IP: '127.0.0.1'.
+2024-05-08 22:01:00 7164 [Note] Event Scheduler: Loaded 0 events
+2024-05-08 22:01:00 7164 [Note] Execution of init_file 'C:\Users\BunbyDev\Documents\code\trial\Database\UniServerZ\core\mysql\bin\mysql-init.txt' started.
+2024-05-08 22:01:00 7164 [Note] Execution of init_file 'C:\Users\BunbyDev\Documents\code\trial\Database\UniServerZ\core\mysql\bin\mysql-init.txt' ended.
+2024-05-08 22:01:00 7164 [Note] C:\Users\BunbyDev\Documents\code\trial\Database\UniServerZ\core\mysql\bin\mysqld_z.exe: ready for connections.
+Version: '5.6.35'  socket: ''  port: 3306  MySQL Community Server (GPL)
+2024-05-08 22:01:17 12328 [Note] Plugin 'FEDERATED' is disabled.
+2024-05-08 22:01:17 12328 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2024-05-08 22:01:17 12328 [Note] InnoDB: The InnoDB memory heap is disabled
+2024-05-08 22:01:17 12328 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2024-05-08 22:01:17 12328 [Note] InnoDB: Memory barrier is not used
+2024-05-08 22:01:17 12328 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2024-05-08 22:01:17 12328 [Note] InnoDB: Not using CPU crc32 instructions
+2024-05-08 22:01:17 12328 [Note] InnoDB: Initializing buffer pool, size = 32.0M
+2024-05-08 22:01:17 12328 [Note] InnoDB: Completed initialization of buffer pool
+2024-05-08 22:01:17 12328 [Note] InnoDB: Highest supported file format is Barracuda.
+2024-05-08 22:01:17 12328 [Note] InnoDB: 128 rollback segment(s) are active.
+2024-05-08 22:01:17 12328 [Note] InnoDB: Waiting for purge to start
+2024-05-08 22:01:17 12328 [Note] InnoDB: 5.6.35 started; log sequence number 1771182
+2024-05-08 22:01:17 12328 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+2024-05-08 22:01:17 12328 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+2024-05-08 22:01:17 12328 [Note] Server socket created on IP: '127.0.0.1'.
+2024-05-08 22:01:17 12328 [Note] Event Scheduler: Loaded 0 events
+2024-05-08 22:01:17 12328 [Note] C:\Users\BunbyDev\Documents\code\trial\Database\UniServerZ\core\mysql\bin\mysqld_z.exe: ready for connections.
+Version: '5.6.35'  socket: ''  port: 3306  MySQL Community Server (GPL)
+2024-05-09 09:18:57 912 [Note] Plugin 'FEDERATED' is disabled.
+2024-05-09 09:18:57 912 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2024-05-09 09:18:57 912 [Note] InnoDB: The InnoDB memory heap is disabled
+2024-05-09 09:18:57 912 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2024-05-09 09:18:57 912 [Note] InnoDB: Memory barrier is not used
+2024-05-09 09:18:57 912 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2024-05-09 09:18:57 912 [Note] InnoDB: Not using CPU crc32 instructions
+2024-05-09 09:18:57 912 [Note] InnoDB: Initializing buffer pool, size = 32.0M
+2024-05-09 09:18:57 912 [Note] InnoDB: Completed initialization of buffer pool
+2024-05-09 09:18:57 912 [Note] InnoDB: Highest supported file format is Barracuda.
+2024-05-09 09:18:57 912 [Note] InnoDB: The log sequence numbers 1771182 and 1771182 in ibdata files do not match the log sequence number 2246565 in the ib_logfiles!
+2024-05-09 09:18:57 912 [Note] InnoDB: Database was not shutdown normally!
+2024-05-09 09:18:57 912 [Note] InnoDB: Starting crash recovery.
+2024-05-09 09:18:57 912 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2024-05-09 09:18:57 912 [Note] InnoDB: Restoring possible half-written data pages 
+2024-05-09 09:18:57 912 [Note] InnoDB: from the doublewrite buffer...
+2024-05-09 09:18:57 912 [Note] InnoDB: 128 rollback segment(s) are active.
+2024-05-09 09:18:57 912 [Note] InnoDB: Waiting for purge to start
+2024-05-09 09:18:57 912 [Note] InnoDB: 5.6.35 started; log sequence number 2246565
+2024-05-09 09:18:57 912 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+2024-05-09 09:18:57 912 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+2024-05-09 09:18:57 912 [Note] Server socket created on IP: '127.0.0.1'.
+2024-05-09 09:18:58 912 [Note] Event Scheduler: Loaded 0 events
+2024-05-09 09:18:58 912 [Note] C:\Users\BunbyDev\Documents\code\trial\Database\UniServerZ\core\mysql\bin\mysqld_z.exe: ready for connections.
+Version: '5.6.35'  socket: ''  port: 3306  MySQL Community Server (GPL)
