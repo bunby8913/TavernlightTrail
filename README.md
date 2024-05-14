@@ -1,4 +1,4 @@
-# Tavernlight Trail
+# Tavernlight Trial
 Answers to the Tavernlight technical trial
 
 Q5: I had some issues with re-creating the disappearing and appearing of the effect as shown in the video. I have also modified the effect.cpp file for OTClient to correctly re-create the effect shown in the video. But the change is committed with question 6 as more changes were made to that file.
